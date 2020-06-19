@@ -8,11 +8,14 @@ INTUZ is presenting a Parallax Effect in header inside your Native iOS-based app
 
 <br/><br/>
 
-<div style="float:left">
-<img src="Screenshots/Screen1.jpg" width="600">
-<img src="Screenshots/Screen2.jpg" width="600">
-<img src="Screenshots/ParallaxEffect.gif" width="600">
-</div>
+<table>
+  <tr>
+    <td><img src="Screenshots/Screen1.png" width=320 height=693></td>
+    <td><img src="Screenshots/Screen2.png" width=320 height=693></td>
+    <td><img src="Screenshots/ParallaxEffect.gif" width=320 height=693></td>
+  </tr>
+ </table>
+
 
 <br/><br/>
 **<h1>License</h1>**
